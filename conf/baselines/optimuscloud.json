@@ -1,0 +1,8 @@
+{
+	"description": "Software configuration is not considered; Workloads of lumos-datasets cannot be descripted as OptimusCloud did; D-optimal is totally unnecessary. So OptimusCloud is just the same with Paris.",
+	"normalize_rate": 30,
+	"parameters": {
+		"n_estimators": 10,
+		"max_depth": "None"
+	} 
+}

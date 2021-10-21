@@ -1,0 +1,10 @@
+scipy==1.5.4
+numpy==1.19.4
+PyWavelets==1.1.1
+matplotlib==3.3.3
+dill==0.3.3
+keras==2.4.3
+pandas==1.2.1
+scikit_learn==0.24.1
+surprise==0.1
+torch==1.7.1

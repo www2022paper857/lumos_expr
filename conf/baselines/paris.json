@@ -1,0 +1,7 @@
+{
+	"normalize_rate": 30,
+	"parameters": {
+		"n_estimators": 10,
+		"max_depth": "None"
+	} 
+}

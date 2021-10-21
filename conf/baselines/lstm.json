@@ -1,0 +1,9 @@
+{
+	"normalize_rate": 30,
+	"parameters": {
+		"input_size": 61,
+		"learning_rate": 0.02,
+		"hidden_size": 32,
+		"num_layers": 1
+	} 
+}

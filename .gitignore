@@ -1,0 +1,12 @@
+*.pyc
+__pycache___
+.vscode
+/saved_data/
+.ipynb_checkpoints
+/logs/
+/tmp/
+/res/
+*.png
+*.jpg
+*.pdf
+.DS_Store

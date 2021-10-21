@@ -1,0 +1,24 @@
+{
+    "dataset": {
+        "path": "",
+        "no_dup": false,
+        "dump_pth": "",
+        "dump_pth_ordinal": "",
+        "dump_pth_ordinal_1s": "",
+        "dump_pth_ordinal_v2_1s": "",
+        "dump_pth_ordinal_v3_1s": "",
+        "dump_pth_ordinal_with_truc_v1": "",
+        "dump_pth_no_dup": "",
+        "dump_pth_no_norm": "",
+        "train_test_dump_prefix": "",
+        "hpt_results_pth_prefix": "",
+        "vendor_cnt": 4,
+        "vendors": [],
+        "non_zero_idx": [0, 2, 5, 6, 8, 9, 14, 16, 18, 20, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 45, 46, 48, 61],
+        "selected_idx": [0, 2, 3, 5, 6, 7, 8, 12, 15, 17, 19, 24, 34, 36, 44, 45, 46, 48, 60, 61],
+        "truncate": false
+    },
+    "lumos_model": {
+        "model_name_prefix": "lumos_model_v1"
+    }
+}
